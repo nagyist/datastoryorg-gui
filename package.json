@@ -45,7 +45,7 @@
     "@emotion/styled": "^11.3.0",
     "@fontsource/ibm-plex-mono": "^4.5.1",
     "@fontsource/ibm-plex-sans": "^4.5.1",
-    "@fontsource/ibm-plex-serif": "^4.5.0",
+    "@fontsource/ibm-plex-serif": "^4.5.1",
     "@projectstorm/react-diagrams": "^6.6.1",
     "axios": "^0.21",
     "dagre": "^0.8.5",
